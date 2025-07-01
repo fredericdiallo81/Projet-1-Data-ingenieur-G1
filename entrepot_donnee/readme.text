@@ -1,0 +1,4 @@
+note: 
+1. veillez creer d'abords les noms des bases de donnees sur postgres exemples macrobus_production et macrobus_entrepot avant 
+d'executer les fichiers .bat pour lancer les scryptes.
+2. Veillez inspecter les chemins des localisations des scryptes indiquer dans les fichiers .bat pour eviter les erreurs dans l'execution.
